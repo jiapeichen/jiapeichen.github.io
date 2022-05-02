@@ -6,12 +6,12 @@ Photography and behind-the-scene stories (2015-16): [Jiapei Chen Photography](ht
 Fashion/photography I've collected from the internet (bascially mood boards; 2011-17): [Hope and Live](https://hopeandlive.wordpress.com/)
 
 ## Current projects
-Reviews (movies and bookes; 2020-present): [jiapeireviews](https://www.instagram.com/jiapeireviews/)
+Reviews (movies and books; 2020-present): [jiapeireviews](https://www.instagram.com/jiapeireviews/)
 
 Interesting science tidbits (as seen on Twitter; 2021-present): [jiapeisciences](https://www.instagram.com/jiapeisciences/)
 
 ## Science
-I like the brain, and here are some stuff I've worked on in the past:
+I like the brain, and here are some stuff I've worked on:
 
 ### 2016
 [Expansion Microscopy](https://www.nature.com/articles/nbt.3641) _Nature Biotechnology_

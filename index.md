@@ -32,3 +32,5 @@ I like the brain, and here are some stuff I've worked on:
 
 ### 2022
 [Interneuron production in the human brain](https://www.science.org/doi/abs/10.1126/science.abk2346) _Science_
+
+[Blood vessel diversity in the prenatal human brain](https://www.cell.com/cell/fulltext/S0092-8674(22)01126-6) _Cell_

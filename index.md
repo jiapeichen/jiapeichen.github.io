@@ -1,5 +1,5 @@
 ## Science
-I like the brain :brain: and here are some stuff I've worked on :petri_dish: :test_tube:	
+I like the brain and here are some stuff I've worked on:
 
 ### 2022
 [Interneuron production in the prenatal human brain](https://www.science.org/doi/abs/10.1126/science.abk2346) _Science_
@@ -25,8 +25,10 @@ I like the brain :brain: and here are some stuff I've worked on :petri_dish: :te
 
 ## Currently reading:
 
-![41MhErieuPL](https://user-images.githubusercontent.com/47843652/227428361-4ea5e2af-c631-4b4a-9552-a8da18d5d113.jpeg)
-![59148726](https://user-images.githubusercontent.com/47843652/227428430-05ffca1a-d1ef-4ccf-8da7-473b660a0435.jpeg)
+![34466963](https://user-images.githubusercontent.com/47843652/227428800-c15d8793-af32-4509-8a5c-fd00ef0da4f6.jpeg)
+![31138556](https://user-images.githubusercontent.com/47843652/227428820-15e2307e-a4d9-4bd2-bb4b-c055eee2d2f2.jpeg)
+![70897](https://user-images.githubusercontent.com/47843652/227428824-67c5dd38-a66f-4208-8bf5-029df14cd237.jpeg)
+![36349572](https://user-images.githubusercontent.com/47843652/227428831-c0646339-0df1-4405-b8cd-3d11ce7562e5.jpeg)
 
 ## Current hobby projects
 Reviews (movies and books; 2020-present): [jiapeireviews](https://www.instagram.com/jiapeireviews/)

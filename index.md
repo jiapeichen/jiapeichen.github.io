@@ -25,7 +25,6 @@ I like the brain and here are some stuff I've worked on:
 
 ## Currently reading:
 
-![34466963](https://user-images.githubusercontent.com/47843652/227428800-c15d8793-af32-4509-8a5c-fd00ef0da4f6.jpeg)
 ![31138556](https://user-images.githubusercontent.com/47843652/227428820-15e2307e-a4d9-4bd2-bb4b-c055eee2d2f2.jpeg)
 ![70897](https://user-images.githubusercontent.com/47843652/227428824-67c5dd38-a66f-4208-8bf5-029df14cd237.jpeg)
 ![36349572](https://user-images.githubusercontent.com/47843652/227428831-c0646339-0df1-4405-b8cd-3d11ce7562e5.jpeg)

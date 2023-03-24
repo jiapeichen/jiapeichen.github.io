@@ -1,10 +1,13 @@
 ## Science
-I like the brain, and here are some stuff I've worked on:
+I like the brain :brain: and here are some stuff I've worked on :petri_dish: :test_tube:	
 
-### 2016
-[Expansion Microscopy](https://www.nature.com/articles/nbt.3641) _Nature Biotechnology_
+### 2022
+[Interneuron production in the prenatal human brain](https://www.science.org/doi/abs/10.1126/science.abk2346) _Science_
 
-[Enhancer-Trap in Drosophila flies](https://academic.oup.com/g3journal/article/6/10/3017/6032519?login=true) _G3: Genes, Genomes, Genetics_
+[Blood vessel diversity in the prenatal human brain](https://www.cell.com/cell/fulltext/S0092-8674(22)01126-6) _Cell_
+
+### 2021
+[Expansion Microscopy](https://rupress.org/jcb/article/220/9/e202105067/212454/Label-retention-expansion-microscopyLabel) _Journal of Cell Biology_
 
 ### 2020
 [Transcription factors in interneuron differentiation](https://elifesciences.org/articles/54903) _eLife_
@@ -15,13 +18,15 @@ I like the brain, and here are some stuff I've worked on:
 
 [Microglia toxicity in neurodegeneration](https://www.nature.com/articles/s41586-020-2709-7) _Nature_
 
-### 2021
-[Expansion Microscopy](https://rupress.org/jcb/article/220/9/e202105067/212454/Label-retention-expansion-microscopyLabel) _Journal of Cell Biology_
+### 2016
+[Expansion Microscopy](https://www.nature.com/articles/nbt.3641) _Nature Biotechnology_
 
-### 2022
-[Interneuron production in the human brain](https://www.science.org/doi/abs/10.1126/science.abk2346) _Science_
+[Enhancer-Trap in Drosophila flies](https://academic.oup.com/g3journal/article/6/10/3017/6032519?login=true) _G3: Genes, Genomes, Genetics_
 
-[Blood vessel diversity in the prenatal human brain](https://www.cell.com/cell/fulltext/S0092-8674(22)01126-6) _Cell_
+## Currently reading:
+
+![41MhErieuPL](https://user-images.githubusercontent.com/47843652/227428361-4ea5e2af-c631-4b4a-9552-a8da18d5d113.jpeg)
+![59148726](https://user-images.githubusercontent.com/47843652/227428430-05ffca1a-d1ef-4ccf-8da7-473b660a0435.jpeg)
 
 ## Current hobby projects
 Reviews (movies and books; 2020-present): [jiapeireviews](https://www.instagram.com/jiapeireviews/)
